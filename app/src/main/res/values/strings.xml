@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">aaaaa</string>
+    <string name="SnapSnack">SnapSnack</string>
+    <string name="food_delivery_app">Food Delivery App</string>
+    <string name="Get_Started">Get Started</string>
+    <string name="hi_shahd">Hi Shahd</string>
+    <string name="order_eat"><![CDATA[Order & Eat]]></string>
+    <string name="findyourfood">Find Your Food</string>
+    <string name="FreeDelivery">Free Delivery</string>
+    <string name="Sale">August 20 - 30</string>
+    <string name="ordernow">Order Now</string>
+    <string name="Categories">Categories</string>
+    <string name="poplular">Poplular</string>
+    <string name="Home">Home</string>
+    <string name="Profile">Profile</string>
+    <string name="Support">Support</string>
+    <string name="Setting">Setting</string>
+    <string name="title">title</string>
+    <string name="Title">Title</string>
+    <string name="EG">EG</string>
+    <string name="EGP">EGP</string>
+    <string name="Add_to_Cart">Add to Cart</string>
+    <string name="Items_Total">Items Total</string>
+    <string name="Items_Tota">Items Total:\n</string>
+</resources>
