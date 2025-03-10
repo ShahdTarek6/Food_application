@@ -1,6 +1,4 @@
-Here’s a more detailed and professional README description for your Git repository:  
 
----
 
 # 🍽️ Food Ordering App  
 
